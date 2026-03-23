@@ -59,6 +59,12 @@ R_bks_0 = [
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
 "s_idx": 39
+},
+{
+"call_number": "",
+"media_type": "\u041a\u043d\u0438\u0433\u0430",
+"note": "",
+"s_idx": 40
 }
 ],
 [
@@ -82,7 +88,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u0430\u0440\u0442\u043e\u0447\u043a\u0430",
 "note": "",
-"s_idx": 50
+"s_idx": 51
 }
 ],
 [
@@ -104,7 +110,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 53
+"s_idx": 54
 }
 ],
 [
@@ -124,13 +130,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 47
+"s_idx": 48
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 51
+"s_idx": 52
 }
 ],
 [
@@ -146,7 +152,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 44
+"s_idx": 45
 }
 ],
 [
@@ -190,13 +196,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 45
+"s_idx": 46
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 56
+"s_idx": 57
 }
 ],
 [
@@ -204,13 +210,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 43
+"s_idx": 44
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 52
+"s_idx": 53
 }
 ],
 [
@@ -256,13 +262,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 48
+"s_idx": 49
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 49
+"s_idx": 50
 }
 ],
 [
@@ -332,19 +338,19 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 41
-},
-{
-"call_number": "",
-"media_type": "\u041a\u043d\u0438\u0433\u0430",
-"note": "",
 "s_idx": 42
 },
 {
 "call_number": "",
 "media_type": "\u041a\u043d\u0438\u0433\u0430",
 "note": "",
-"s_idx": 54
+"s_idx": 43
+},
+{
+"call_number": "",
+"media_type": "\u041a\u043d\u0438\u0433\u0430",
+"note": "",
+"s_idx": 55
 }
 ],
 [
@@ -358,7 +364,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u041a\u0430\u0440\u0442\u043e\u0447\u043a\u0430",
 "note": "",
-"s_idx": 55
+"s_idx": 56
 }
 ],
 [
@@ -366,7 +372,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "\u0413\u0430\u0437\u0435\u0442\u0430",
 "note": "",
-"s_idx": 46
+"s_idx": 47
 }
 ]
 ]

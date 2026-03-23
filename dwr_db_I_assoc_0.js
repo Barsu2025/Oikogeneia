@@ -180,23 +180,25 @@ I_assoc_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "cita": [],
 "note": "",
-"person": 203,
+"person": 205,
 "relationship": "\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c"
 },
 {
 "cita": [],
 "note": "",
-"person": 186,
+"person": 188,
 "relationship": "\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c"
 },
 {
 "cita": [],
 "note": "",
-"person": 206,
+"person": 208,
 "relationship": "\u041a\u0440\u0451\u0441\u0442\u043d\u044b\u0439 \u043e\u0442\u0435\u0446"
 }
 ],
@@ -211,13 +213,13 @@ I_assoc_0 = [
 {
 "cita": [],
 "note": "",
-"person": 203,
+"person": 205,
 "relationship": "\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c"
 },
 {
 "cita": [],
 "note": "",
-"person": 186,
+"person": 188,
 "relationship": "\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c"
 }
 ],
@@ -227,13 +229,13 @@ I_assoc_0 = [
 {
 "cita": [],
 "note": "",
-"person": 186,
+"person": 188,
 "relationship": "\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c"
 },
 {
 "cita": [],
 "note": "",
-"person": 203,
+"person": 205,
 "relationship": "\u041f\u043e\u0440\u0443\u0447\u0438\u0442\u0435\u043b\u044c"
 }
 ],

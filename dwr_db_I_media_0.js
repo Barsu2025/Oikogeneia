@@ -16,7 +16,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 129,
+"m_idx": 134,
 "note": "",
 "rect": [
 19,
@@ -37,7 +37,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 42,
+"m_idx": 47,
 "note": "",
 "rect": [
 0,
@@ -53,7 +53,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 33,
+"m_idx": 38,
 "note": "",
 "rect": [
 13,
@@ -71,7 +71,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 49,
+"m_idx": 54,
 "note": "",
 "rect": [
 0,
@@ -85,7 +85,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 78,
+"m_idx": 83,
 "note": "",
 "rect": [
 0,
@@ -102,7 +102,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 63,
+"m_idx": 68,
 "note": "",
 "rect": [
 0,
@@ -114,7 +114,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 64,
+"m_idx": 69,
 "note": "",
 "rect": [
 0,
@@ -136,7 +136,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 55,
+"m_idx": 60,
 "note": "",
 "rect": [
 0,
@@ -148,7 +148,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 56,
+"m_idx": 61,
 "note": "",
 "rect": [
 0,
@@ -193,7 +193,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 92,
+"m_idx": 97,
 "note": "",
 "rect": [
 0,
@@ -212,7 +212,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 93,
+"m_idx": 98,
 "note": "",
 "rect": [
 0,
@@ -245,10 +245,12 @@ I_media_0 = [
 [],
 [],
 [],
+[],
+[],
 [
 {
 "cita": [],
-"m_idx": 62,
+"m_idx": 67,
 "note": "",
 "rect": [
 0,
@@ -264,7 +266,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 96,
+"m_idx": 101,
 "note": "",
 "rect": [
 0,
@@ -308,7 +310,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 119,
+"m_idx": 124,
 "note": "",
 "rect": [
 24,
@@ -337,7 +339,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 108,
+"m_idx": 113,
 "note": "",
 "rect": [
 0,
@@ -354,7 +356,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 109,
+"m_idx": 114,
 "note": "",
 "rect": [
 0,
@@ -366,7 +368,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 110,
+"m_idx": 115,
 "note": "",
 "rect": [
 0,
@@ -383,7 +385,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 111,
+"m_idx": 116,
 "note": "",
 "rect": [
 0,
@@ -421,7 +423,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 27,
+"m_idx": 30,
 "note": "",
 "rect": [
 0,
@@ -439,7 +441,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 130,
+"m_idx": 135,
 "note": "",
 "rect": [
 0,
@@ -451,7 +453,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 131,
+"m_idx": 136,
 "note": "",
 "rect": [
 0,
@@ -463,7 +465,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 132,
+"m_idx": 137,
 "note": "",
 "rect": [
 0,
@@ -488,7 +490,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 133,
+"m_idx": 138,
 "note": "",
 "rect": [
 0,
@@ -500,7 +502,7 @@ I_media_0 = [
 },
 {
 "cita": [],
-"m_idx": 134,
+"m_idx": 139,
 "note": "",
 "rect": [
 0,
@@ -516,7 +518,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 115,
+"m_idx": 120,
 "note": "",
 "rect": [
 0,
@@ -538,7 +540,7 @@ I_media_0 = [
 [
 {
 "cita": [],
-"m_idx": 135,
+"m_idx": 140,
 "note": "",
 "rect": [
 0,

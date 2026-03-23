@@ -129,7 +129,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 52,
+"bk_idx": 53,
 "cita": [],
 "note": "",
 "rect": [
@@ -228,7 +228,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 54,
+"bk_idx": 55,
 "cita": [],
 "note": "",
 "rect": [
@@ -242,7 +242,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 54,
+"bk_idx": 55,
 "cita": [],
 "note": "",
 "rect": [
@@ -311,13 +311,83 @@ M_bks_0 = [
 "thumb": "thumb/4/c/f9633a69e7026fb266e4c2e52c4.png"
 }
 ],
+[
+{
+"bk_idx": 39,
+"cita": [],
+"note": "",
+"rect": [
+0,
+80,
+100,
+100
+],
+"thumb": "thumb/1/d/10230297350f2bb49c14be18e1d1-0,80-100,100.png"
+}
+],
+[
+{
+"bk_idx": 39,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/9/a/10230298598f5b26e8100ba026a9.png"
+}
+],
+[
+{
+"bk_idx": 40,
+"cita": [],
+"note": "",
+"rect": [
+0,
+63,
+100,
+95
+],
+"thumb": "thumb/c/1/1022ff16e9aa1ad584b342ed541c-0,63-100,95.png"
+}
+],
 [],
 [],
 [],
 [],
 [
 {
-"bk_idx": 39,
+"bk_idx": 40,
+"cita": [],
+"note": "",
+"rect": [
+0,
+0,
+100,
+100
+],
+"thumb": "thumb/0/d/10230348de477a3ba209349ff8d0.png"
+}
+],
+[
+{
+"bk_idx": 40,
+"cita": [],
+"note": "",
+"rect": [
+0,
+80,
+100,
+100
+],
+"thumb": "thumb/7/2/1023034697242b485c8ea8774f27-0,80-100,100.png"
+}
+],
+[
+{
+"bk_idx": 40,
 "cita": [],
 "note": "",
 "rect": [
@@ -331,7 +401,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 39,
+"bk_idx": 40,
 "cita": [],
 "note": "",
 "rect": [
@@ -359,7 +429,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 44,
+"bk_idx": 45,
 "cita": [],
 "note": "",
 "rect": [
@@ -375,7 +445,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 42,
+"bk_idx": 43,
 "cita": [],
 "note": "",
 "rect": [
@@ -418,7 +488,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 53,
+"bk_idx": 54,
 "cita": [],
 "note": "",
 "rect": [
@@ -477,7 +547,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 41,
+"bk_idx": 42,
 "cita": [],
 "note": "",
 "rect": [
@@ -495,7 +565,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 51,
+"bk_idx": 52,
 "cita": [],
 "note": "",
 "rect": [
@@ -554,7 +624,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 50,
+"bk_idx": 51,
 "cita": [],
 "note": "",
 "rect": [
@@ -568,7 +638,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 48,
+"bk_idx": 49,
 "cita": [],
 "note": "",
 "rect": [
@@ -582,7 +652,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 48,
+"bk_idx": 49,
 "cita": [],
 "note": "",
 "rect": [
@@ -596,7 +666,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 48,
+"bk_idx": 49,
 "cita": [],
 "note": "",
 "rect": [
@@ -964,7 +1034,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 43,
+"bk_idx": 44,
 "cita": [],
 "note": "",
 "rect": [
@@ -1025,7 +1095,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 47,
+"bk_idx": 48,
 "cita": [],
 "note": "",
 "rect": [
@@ -1039,7 +1109,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 46,
+"bk_idx": 47,
 "cita": [],
 "note": "",
 "rect": [
@@ -1053,7 +1123,7 @@ M_bks_0 = [
 ],
 [
 {
-"bk_idx": 46,
+"bk_idx": 47,
 "cita": [],
 "note": "",
 "rect": [
@@ -1116,7 +1186,7 @@ M_bks_0 = [
 [],
 [
 {
-"bk_idx": 49,
+"bk_idx": 50,
 "cita": [],
 "note": "",
 "rect": [

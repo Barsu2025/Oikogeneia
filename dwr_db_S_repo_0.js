@@ -300,6 +300,14 @@ S_repo_0 = [
 "r_idx": 2
 }
 ],
+[
+{
+"call_number": "",
+"media_type": "\u041a\u043d\u0438\u0433\u0430",
+"note": "",
+"r_idx": 2
+}
+],
 [],
 [
 {

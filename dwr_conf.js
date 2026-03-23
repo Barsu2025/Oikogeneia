@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Οικογένεια";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 94,
+    "C": 97,
     "F": 90,
-    "I": 216,
-    "M": 137,
+    "I": 218,
+    "M": 142,
     "N": 37,
     "P": 68,
     "R": 25,
-    "S": 58
+    "S": 59
 };NB_GENERATIONS_MAX = 10;
 PAGES_FILE = ["index.html", "", "tree_svg.html"];
 PAGES_TITLE = ["Домой", "Индексы", "Древо"];
